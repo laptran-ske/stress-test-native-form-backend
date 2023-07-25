@@ -1,0 +1,13 @@
+dev/
+local/
+build/
+dist/
+built-tsoa/
+node_modules/
+tsconfig.tsbuildinfo
+yarn-error.log
+.vscode
+coverage
+.env
+temp/
+.idea/
